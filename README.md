@@ -8,7 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya6974yt@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/wtfadi?style=for-the-badge&logo=github)](https://github.com/wtfadi)
 
-![Profile Views](https://komarev.com/ghpvc/?username=wtfadi&style=flat-square&color=blue)
 
 </div>
 
