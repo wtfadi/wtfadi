@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya6974yt@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/wtfadi?style=for-the-badge&logo=github)](https://github.com/wtfadi)
 
-<img src="https://komarev.com/ghpvc/?username=wtfadi&style=for-the-badge&color=blue" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=wtfadi&style=flat-square&color=blue)
 
 </div>
 
@@ -16,16 +16,19 @@
 
 ## 🚀 About Me
 
-```
+I'm a DevOps enthusiast and cybersecurity student passionate about building intelligent automation solutions. Currently pursuing advanced skills in cloud infrastructure, security automation, and IoT development. I love turning complex problems into elegant, automated solutions.
+
+```python
 class Developer:
     def __init__(self):
         self.name = "Aditya Raj"
         self.role = "DevOps & Security Engineer"
-        self.interests = ["Cybersecurity", "Automation", "Cloud Computing"]
+        self.interests = ["Cybersecurity", "Automation", "Cloud Computing", "IoT"]
+        self.learning = ["Kubernetes", "Cloud Security", "Penetration Testing"]
         self.motto = "Break it → Fix it → Automate it"
     
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+        print("Thanks for stopping by! Let's build something awesome together.")
 
 me = Developer()
 me.say_hi()
@@ -33,7 +36,7 @@ me.say_hi()
 
 - 🔐 Passionate about **Cybersecurity** & **Ethical Automation**
 - 🤖 Building intelligent **Bots, Scripts & Automation Tools**
-- ☁️ Exploring **DevOps stacks** (Docker, Kubernetes, CI/CD)
+- ☁️ Exploring **DevOps stacks** (Docker, Kubernetes, CI/CD, Cloud)
 - 🎯 Currently focusing on **Cloud Security** & **Infrastructure Automation**
 - ⚡ Always learning, always building
 
@@ -41,7 +44,7 @@ me.say_hi()
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -60,6 +63,22 @@ me.say_hi()
 
 ---
 
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+| Certification | Issuer | Date | Skills |
+|---|---|---|---|
+| 🐳 **Docker Foundations** | LinkedIn Learning | Oct 2025 | Containerization, Docker Products |
+| 🛡️ **Cybersecurity Analyst** | Forage (Deloitte) | Nov 2025 | IAM, Security Strategy, Access Control |
+| 🔒 **Shields Up Cybersecurity** | Forage | Nov 2025 | Zero-day Vulnerabilities, Ransomware Defense |
+| 💻 **IT Service Management** | LinkedIn Learning | Oct 2025 | IT Service Desk, Service Management |
+| 📚 **Docker: Your First Project** | LinkedIn Learning | Oct 2025 | Docker Containerization & Deployment |
+
+</div>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -74,7 +93,7 @@ me.say_hi()
 
 ---
 
-## 🏆 Featured Projects
+## 🏅 Featured Projects
 
 <div align="center">
 
@@ -87,21 +106,24 @@ me.say_hi()
 
 ## 🎯 Current Focus
 
-```
+```yaml
 learning:
-  - Advanced Kubernetes orchestration
-  - Cloud security best practices
+  - Advanced Kubernetes orchestration & cluster management
+  - Cloud security best practices (AWS, Azure)
   - Penetration testing methodologies
+  - DevSecOps practices
   
 building:
-  - Automated deployment pipelines
-  - Security automation tools
-  - Smart chatbots and assistants
+  - Automated CI/CD deployment pipelines
+  - Security automation tools & scripts
+  - Smart IoT applications
+  - Intelligent chatbots and assistants
   
 exploring:
-  - Bug bounty programs
+  - Bug bounty programs & vulnerability disclosure
   - Open source contributions
-  - CTF challenges
+  - CTF challenges & security research
+  - Advanced containerization patterns
 ```
 
 ---
@@ -109,6 +131,8 @@ exploring:
 ## 💡 Fun Fact
 
 > "I don't just write code — I automate everything, one script at a time! ⚡"
+> 
+> *Because manual work is just code that hasn't been automated yet.*
 
 ---
 
@@ -116,10 +140,11 @@ exploring:
 
 ### 🤝 Let's Connect
 
-I'm always open to collaborating on interesting projects or discussing technology!
+I'm always open to collaborating on interesting projects, discussing technology, or exploring new opportunities in DevOps and cybersecurity!
 
-[![GitHub](https://img.shields.io/badge/Follow-wtfadi-181717?style=for-the-badge&logo=github)](https://github.com/wtfadi)
-[![Instagram](https://img.shields.io/badge/Connect-%40xpz__xz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xpz_xz)
+[![Follow GitHub](https://img.shields.io/badge/Follow-wtfadi-181717?style=for-the-badge&logo=github)](https://github.com/wtfadi)
+[![Connect Instagram](https://img.shields.io/badge/Connect-%40xpz__xz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xpz_xz)
+[![Email Me](https://img.shields.io/badge/Email-aditya6974yt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya6974yt@gmail.com)
 
 ---
 
